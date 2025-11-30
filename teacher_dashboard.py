@@ -133,7 +133,7 @@ class CMS:
         # ============ stats labels ============
         self.lbl_course = Label(
             self.root,
-            text="Total Courses\n[0]",
+            text="Total Courses\n[2]",
             font=("goudy old style", 18),
             bd=6,
             relief=RIDGE,
@@ -144,7 +144,7 @@ class CMS:
 
         self.lbl_coursesyllabus = Label(
             self.root,
-            text="Total Course Faculty\n[0]",
+            text="Total Course Faculty\n[2]",
             font=("goudy old style", 18),
             bd=6,
             relief=RIDGE,
@@ -155,7 +155,7 @@ class CMS:
 
         self.lbl_students = Label(
             self.root,
-            text="Total Students\n[0]",
+            text="Total Students\n[1]",
             font=("goudy old style", 18),
             bd=6,
             relief=RIDGE,
