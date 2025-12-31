@@ -1,0 +1,1 @@
+A desktop-based Course Management System built with Python, Tkinter, and SQLite that automates academic operations through role-based authentication, enabling administrators, teachers, and students to manage courses, users, and digital learning materials efficiently.
